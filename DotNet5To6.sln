@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrate", "Migrate\Migrate.csproj", "{EF1749EC-D5E7-4D8D-AC8A-B4FF308C2F8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migrate", "Migrate\Migrate.csproj", "{C77DA0EC-D38D-4A83-8AF1-A4F9C5CE553E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF1749EC-D5E7-4D8D-AC8A-B4FF308C2F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF1749EC-D5E7-4D8D-AC8A-B4FF308C2F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF1749EC-D5E7-4D8D-AC8A-B4FF308C2F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF1749EC-D5E7-4D8D-AC8A-B4FF308C2F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77DA0EC-D38D-4A83-8AF1-A4F9C5CE553E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77DA0EC-D38D-4A83-8AF1-A4F9C5CE553E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77DA0EC-D38D-4A83-8AF1-A4F9C5CE553E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77DA0EC-D38D-4A83-8AF1-A4F9C5CE553E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
